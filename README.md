@@ -47,13 +47,6 @@ Building cool UI, and figuring things out 🚀
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kanisshka&show_icons=true&locale=en" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kanisshka" />
-</p>
-
 ---
 
 ### 💡 Current Focus
